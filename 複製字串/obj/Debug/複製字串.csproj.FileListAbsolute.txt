@@ -1,0 +1,33 @@
+E:\程式\C#\Windows Form 主控台程序\實用  Practical\複製字串\複製字串\bin\Debug\複製字串.exe.config
+E:\程式\C#\Windows Form 主控台程序\實用  Practical\複製字串\複製字串\bin\Debug\複製字串.exe
+E:\程式\C#\Windows Form 主控台程序\實用  Practical\複製字串\複製字串\bin\Debug\複製字串.pdb
+E:\程式\C#\Windows Form 主控台程序\實用  Practical\複製字串\複製字串\obj\Debug\複製字串.csprojAssemblyReference.cache
+E:\程式\C#\Windows Form 主控台程序\實用  Practical\複製字串\複製字串\obj\Debug\複製字串.Form1.resources
+E:\程式\C#\Windows Form 主控台程序\實用  Practical\複製字串\複製字串\obj\Debug\複製字串.Properties.Resources.resources
+E:\程式\C#\Windows Form 主控台程序\實用  Practical\複製字串\複製字串\obj\Debug\複製字串.csproj.GenerateResource.cache
+E:\程式\C#\Windows Form 主控台程序\實用  Practical\複製字串\複製字串\obj\Debug\複製字串.exe
+E:\程式\C#\Windows Form 主控台程序\實用  Practical\複製字串\複製字串\obj\Debug\複製字串.pdb
+E:\程式\C#\Windows Form\實用  Practical\複製字串\複製字串\bin\Debug\複製字串.exe.config
+E:\程式\C#\Windows Form\實用  Practical\複製字串\複製字串\bin\Debug\複製字串.exe
+E:\程式\C#\Windows Form\實用  Practical\複製字串\複製字串\bin\Debug\複製字串.pdb
+E:\程式\C#\Windows Form\實用  Practical\複製字串\複製字串\obj\Debug\複製字串.csprojAssemblyReference.cache
+E:\程式\C#\Windows Form\實用  Practical\複製字串\複製字串\obj\Debug\複製字串.Form1.resources
+E:\程式\C#\Windows Form\實用  Practical\複製字串\複製字串\obj\Debug\複製字串.Properties.Resources.resources
+E:\程式\C#\Windows Form\實用  Practical\複製字串\複製字串\obj\Debug\複製字串.csproj.GenerateResource.cache
+E:\程式\C#\Windows Form\實用  Practical\複製字串\複製字串\obj\Debug\複製字串.exe
+E:\程式\C#\Windows Form\實用  Practical\複製字串\複製字串\obj\Debug\複製字串.pdb
+E:\程序\C#\Windows Form\實用  Practical\複製字串\複製字串\bin\Debug\複製字串.exe.config
+E:\程序\C#\Windows Form\實用  Practical\複製字串\複製字串\bin\Debug\複製字串.exe
+E:\程序\C#\Windows Form\實用  Practical\複製字串\複製字串\bin\Debug\複製字串.pdb
+E:\程序\C#\Windows Form\實用  Practical\複製字串\複製字串\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\程序\C#\Windows Form\實用  Practical\複製字串\複製字串\obj\Debug\複製字串.csprojAssemblyReference.cache
+E:\程序\C#\Windows Form\實用  Practical\複製字串\複製字串\obj\Debug\Interop.mscoree.dll
+E:\程序\C#\Windows Form\實用  Practical\複製字串\複製字串\obj\Debug\Interop.Scripting.dll
+E:\程序\C#\Windows Form\實用  Practical\複製字串\複製字串\obj\Debug\複製字串.csproj.ResolveComReference.cache
+E:\程序\C#\Windows Form\實用  Practical\複製字串\複製字串\obj\Debug\複製字串.Form1.resources
+E:\程序\C#\Windows Form\實用  Practical\複製字串\複製字串\obj\Debug\複製字串.Properties.Resources.resources
+E:\程序\C#\Windows Form\實用  Practical\複製字串\複製字串\obj\Debug\複製字串.csproj.GenerateResource.cache
+E:\程序\C#\Windows Form\實用  Practical\複製字串\複製字串\obj\Debug\複製字串.csproj.CoreCompileInputs.cache
+E:\程序\C#\Windows Form\實用  Practical\複製字串\複製字串\obj\Debug\複製字串.csproj.CopyComplete
+E:\程序\C#\Windows Form\實用  Practical\複製字串\複製字串\obj\Debug\複製字串.exe
+E:\程序\C#\Windows Form\實用  Practical\複製字串\複製字串\obj\Debug\複製字串.pdb
